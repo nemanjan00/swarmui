@@ -1,0 +1,3 @@
+FROM nemanjan00/swarmui:latest
+
+COPY ./import/swarm-ui /workspace/swarm-ui
