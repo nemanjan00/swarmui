@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo rm -rf ./import
+#sudo rm -rf ./import
 
 docker build . -t nemanjan00/swarmui
 
